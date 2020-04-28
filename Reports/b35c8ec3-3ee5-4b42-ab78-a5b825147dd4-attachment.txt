@@ -1,0 +1,3 @@
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:665 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /wd/hub/session/f09c7ee5-6979-458f-b5df-0c07cf042388/alert/text
+[32mINFO    [0m TrainingProgress:selenium_driver.py:69 Element found with locator: ui_tab_Training and  locatorType: id
+[32mINFO    [0m TrainingProgress:selenium_driver.py:100 Clicked on element with locator: ui_tab_Training locatorType: id

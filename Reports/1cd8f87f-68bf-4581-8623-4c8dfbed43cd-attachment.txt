@@ -1,0 +1,2 @@
+[32mINFO    [0m TrainingProgress:selenium_driver.py:69 Element found with locator: ui_tab_Training and  locatorType: id
+[32mINFO    [0m TrainingProgress:selenium_driver.py:100 Clicked on element with locator: ui_tab_Training locatorType: id
